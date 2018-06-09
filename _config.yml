@@ -1,6 +1,1 @@
-# Plugins
-plugins:
-  - jekyll-remote-theme
-
-# Build Settings
 remote_theme: benbalter/retlab
