@@ -1,1 +1,6 @@
-theme: nkjzm/jekyll-theme-prologue
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Build Settings
+remote_theme: chrisbobbe/jekyll-theme-prologue
